@@ -1,0 +1,13 @@
+{
+  "csv_files_loaded": 4,
+  "file_names": [
+    "90855660-1c46-459b-8b83-f9ca720da4c5_01017afd9c49cec45082099488e27215.csv",
+    "90855660-1c46-459b-8b83-f9ca720da4c5_0e5a1415128d427de56831b5214da2e6.csv",
+    "90855660-1c46-459b-8b83-f9ca720da4c5_2c58b3bace12740926dd52314c8dfa2b.csv",
+    "90855660-1c46-459b-8b83-f9ca720da4c5_ab47cc9141545f78ccd07801e5f0100b.csv"
+  ],
+  "rows_before_cleaning": 485796,
+  "rows_after_cleaning": 458724,
+  "duplicates_removed": 27072,
+  "generated_on": "2026-09-02 22:20:56"
+}
